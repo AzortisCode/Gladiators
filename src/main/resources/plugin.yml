@@ -1,0 +1,7 @@
+name: Gladiators
+version: 1.0
+main: com.azortis.gladiators.Gladiators
+api-version: 1.13
+authors:
+- YourPalJake
+- X1XX
